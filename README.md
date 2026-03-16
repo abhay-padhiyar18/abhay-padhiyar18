@@ -1,8 +1,8 @@
 ![logo](https://github.com/abhay-padhiyar18/abhay-padhiyar18/blob/main/Black%20and%20Blue%20Simple%20Business%20Facebook%20Cover.jpg)
 <h1 align="center">Hi 👋, I'm Abhay Padhiyar</h1>
-<h3 align="center">A Passionate Frontend Developer.I am Pursuing Masters of Computer Applications </h3>
+<h3 align="center">A Passionate Full Stack Developer.I have completed Masters of Computer Applications </h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNpMWMxNjd4N3J6ZG8yZnFkY3V6anBvaW9qdGhiemgzMXNmdnFjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay-padhiyar18&label=Profile%20views&color=0e75b6&style=flat" alt="abhay-padhiyar18" /> </p>
 
