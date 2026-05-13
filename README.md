@@ -1,4 +1,4 @@
-![logo](https://github.com/abhay-padhiyar18/abhay-padhiyar18/blob/main/Black%20and%20Blue%20Simple%20Business%20Facebook%20Cover.jpg)
+
 <h1 align="center">Hi 👋, I'm Abhay Padhiyar</h1>
 <h3 align="center">A Passionate Full Stack Developer.I have completed Masters of Computer Applications </h3>
 
