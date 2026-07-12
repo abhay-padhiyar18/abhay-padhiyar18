@@ -36,25 +36,21 @@
 #### 🧳 Employee Travel Management System
 A full stack web application to manage and streamline employee travel requests, approvals, and tracking.
 - **Tech Stack:** ASP.NET Core, Angular, SQL Server, Entity Framework
-  
+- 🔗 [View Repository](https://github.com/abhay-padhiyar18)
 
 #### 🏡 Your Place
 A MERN stack based platform (similar to a property/listing app) with full CRUD functionality and user authentication.
 - **Tech Stack:** MongoDB, Express.js, React.js, Node.js
-  
+- 🔗 [View Repository](https://github.com/abhay-padhiyar18)
+
 > 💡 More projects coming soon — check out my pinned repositories below!
 
 ---
 
-### 📊 GitHub Stats
+### 🐍 Contribution Snake
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abhay-padhiyar18&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay-padhiyar18&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhay-padhiyar18&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/abhay-padhiyar18/abhay-padhiyar18/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
 <p align="center">
