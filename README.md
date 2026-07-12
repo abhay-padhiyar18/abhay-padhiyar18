@@ -53,9 +53,7 @@ A MERN stack based platform (similar to a property/listing app) with full CRUD f
   <img src="https://raw.githubusercontent.com/abhay-padhiyar18/abhay-padhiyar18/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhay-padhiyar18&theme=tokyonight&column=7&margin-w=10&margin-h=10" />
-</p>
+
 
 ---
 
