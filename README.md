@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhay Padhiyar</h1>
+<h1 align="center">Hi, I'm Abhay Padhiyar</h1>
 <h3 align="center">Aspiring .NET Full Stack Developer | Building clean, scalable web apps</h3>
 
 <p align="center">
@@ -36,13 +36,12 @@
 #### 🧳 Employee Travel Management System
 A full stack web application to manage and streamline employee travel requests, approvals, and tracking.
 - **Tech Stack:** ASP.NET Core, Angular, SQL Server, Entity Framework
-- 🔗 [View Repository](https://github.com/abhay-padhiyar18)
+  
 
 #### 🏡 Your Place
 A MERN stack based platform (similar to a property/listing app) with full CRUD functionality and user authentication.
 - **Tech Stack:** MongoDB, Express.js, React.js, Node.js
-- 🔗 [View Repository](https://github.com/abhay-padhiyar18)
-
+  
 > 💡 More projects coming soon — check out my pinned repositories below!
 
 ---
