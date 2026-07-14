@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Fresher, passionate about **.NET Full Stack Development**
+- 🎓 MCA Student, passionate about **.NET Full Stack Development**
 - 💻 I love building end-to-end web applications — from database design to responsive UI
 - 🔭 Currently working on **real-world projects** to sharpen my full stack skills
 - 🌱 Learning advanced concepts in **ASP.NET Core, Angular, and Cloud (Azure)**
@@ -21,13 +21,13 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,react,js,ts,html,css,sqlserver,azure,docker,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,react,js,ts,html,css,sql,azure,docker,git,github,vscode,postman,swagger" />
 </p>
 
 **Backend:** ASP.NET Core, ASP.NET MVC, C#, Entity Framework  
 **Frontend:** Angular, React.js, HTML5, CSS3, JavaScript  
 **Database:** SQL Server, MongoDB  
-**Cloud & Tools:** Azure, Docker, Git, GitHub, Postman, Visual Studio, VS Code
+**Cloud & Tools:** Azure, Docker, Git, GitHub, Postman,Swagger,Visual Studio, VS Code
 
 ---
 
