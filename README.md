@@ -21,7 +21,7 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,react,js,ts,html,css,sql,azure,docker,git,github,vscode,postman,swagger" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,react,js,ts,html,css,azure,docker,git,github,vscode,postman," />
 </p>
 
 **Backend:** ASP.NET Core, ASP.NET MVC, C#, Entity Framework  
