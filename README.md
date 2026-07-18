@@ -33,10 +33,10 @@
 
 ### 📌 Featured Projects
 
-#### 🧳 Employee Travel Management System
+#### 🧳 Corporate Travel Management System
 A full stack web application to manage and streamline employee travel requests, approvals, and tracking.
 - **Tech Stack:** ASP.NET Core, Angular, SQL Server, Entity Framework
-- 🔗 [View Repository](https://github.com/abhay-padhiyar18)
+- 🔗 [View Repository](https://github.com/abhay-padhiyar18/Corporate-Travel-Management-System.git)
 
 #### 🏡 Your Place
 A MERN stack based platform (similar to a property/listing app) with full CRUD functionality and user authentication.
