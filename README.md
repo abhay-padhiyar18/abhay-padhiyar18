@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring .NET Full Stack Developer | Building clean, scalable web apps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=ASP.NET+Core+%7C+C%23+%7C+Entity+Framework;Angular+%2F+React+Frontend+Developer;SQL+Server+%7C+Azure+%7C+Docker;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=ASP.NET+Core+%7C+C%23+%7C+Entity+Framework;Angular+%2F+Frontend+Developer;SQL+Server+%7C+Azure+%7C+Docker;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,7 +13,7 @@
 - 💻 I love building end-to-end web applications — from database design to responsive UI
 - 🔭 Currently working on **real-world projects** to sharpen my full stack skills
 - 🌱 Learning advanced concepts in **ASP.NET Core, Angular, and Cloud (Azure)**
-- 🤝 Open to **internships / entry-level opportunities** as a Full Stack Developer
+- 🤝 Open to **Fresher / entry-level opportunities** as a Full Stack Developer
 - ⚡ Fun fact: I enjoy turning ideas into working applications, one commit at a time!
 
 ---
